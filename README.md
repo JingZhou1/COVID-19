@@ -1,4 +1,6 @@
 # COVID-19
+The research objective is to examine how the pandemic behave across different communities.
+
 ## 1. Collect data
 Pick four communities which can be split into two groups;
 Split them based on population characteristics (social economic indexes like consumer price index, unemployee rate and income level, race, ethnicity mix, etc).
