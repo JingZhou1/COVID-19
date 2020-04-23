@@ -2,8 +2,12 @@
 The research objective is to examine how the pandemic behave across different communities.
 
 ## 1. Collect data
-Pick four communities which can be split into two groups;
-Split them based on population characteristics (social economic indexes like consumer price index, unemployee rate and income level, race, ethnicity mix, etc).
+Pick four counties which can be split into two groups;
+Split them based on population characteristics (social economic indexes like consumer price index, unemployee rate and income level, race, ethnicity mix, etc). The four counties are 
+- Los Angeles County(CA) 
+- Maricopa(AZ)
+- Queens(NY)
+- Lycoming County(PA)
 
 ## 2. Feed the data into model
 Fit Gompertz functions to these four communities to identify best predicting parameters (a, b, c).
