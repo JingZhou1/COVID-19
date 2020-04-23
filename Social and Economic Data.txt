@@ -1,0 +1,10 @@
+2. Social and Economic Data
+
+Consumer Price Index
+https://www.bls.gov/news.release/cpi.t04.htm
+
+Local Area Unemployment Statistics
+https://www.bls.gov/web/laus/laumstrk.htm
+
+Median Household Income 
+https://data.ers.usda.gov/reports.aspx?ID=17828
