@@ -16,3 +16,4 @@ Fit Gompertz functions to these four communities to identify best predicting par
 Identify supply chain related factors (major shipping hub, availability of health care facilities, number of healthcare worker, medical supply, inventory control, etc) and run regressions to see what supply chain factors are most influential to the spread of the pandemic.
 
 ## 4. Analysis and interpret the results
+Analysis the outcome, explore any chances for improvement, and visualize the findings. 
