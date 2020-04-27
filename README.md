@@ -10,7 +10,7 @@ Split them based on population characteristics (social economic indexes like con
 - Lycoming County(PA)
 
 ## 2. Feed the data into model
-Fit Gompertz functions to these four communities to identify best predicting parameters (a, b, c).
+Fit Gompertz functions to these four communities to identify best predicting parameters (a, b, c) using R language. 
 
 ## 3. Run regression 
 Identify supply chain related factors (major shipping hub, availability of health care facilities, number of healthcare worker, medical supply, inventory control, etc) and run regressions to see what supply chain factors are most influential to the spread of the pandemic.
