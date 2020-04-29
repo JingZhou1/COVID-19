@@ -6,8 +6,8 @@ Pick four counties which can be split into two groups;
 Split them based on population characteristics (social economic indexes like consumer price index, unemployee rate and income level, race, ethnicity mix, etc). The four counties are 
 - Los Angeles County(CA) 
 - Maricopa(AZ)
-- Queens(NY)
-- Lycoming County(PA)
+- New York City(NY)
+- Burlington County(NJ)
 
 ## 2. Feed the data into model
 Fit Gompertz functions to these four counties to identify best predicting parameters (a, b, c) using R language. 
