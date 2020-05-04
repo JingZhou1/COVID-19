@@ -1,0 +1,15 @@
+What I have done this week 
+1. I preprocessed the data I collected in the first week and turned them into structured datasets. 
+
+2. I fit Gompertz functions to the counties of interest and tried to identify best predicting parameters in Rstudio but encountered some unknown issues. 
+
+3. I switched to Spicy and built the model in python. I used the model to predict the number of confirmed cases of COVID-19. For example, the number of positive cases in Maricopa is expected to increase to 3571 by June 1st. 
+
+What I'm going to work on in the coming week
+I'm going to run regressions with supply chain related factors including availability of health care facilities and healthcare workers to see if they are influential to the spread of the pandemic.
+
+What questions I have encountered
+When I fit the Gompertz functions in Rstudio, it says "
+Error in numericDeriv(form[[3L]], names(ind), env) :
+  Missing value or an infinity produced when evaluating the model "
+I tried to plug in other datasets, it works well but doesn't work with the COVID-19 data. I would spend more this week to see if I can fix the bug. 
