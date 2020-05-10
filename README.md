@@ -10,7 +10,8 @@ Split them based on population characteristics (social economic indexes like con
 - Burlington County(NJ)
 
 ## 2. Feed the data into model
-Fit Gompertz functions to these four counties to identify best predicting parameters (a, b, c) using R language. 
+Fit Gompertz functions to these four counties to identify best predicting parameters (a, b, c) using python. 
+Build SIR model with python and R to predict spread. 
 
 ## 3. Run regression 
 Identify supply chain related factors (major shipping hub, availability of health care facilities, number of healthcare worker, medical supply, inventory control, etc) and run regressions to see what supply chain factors are most influential to the spread of the pandemic.
