@@ -1,0 +1,53 @@
+我推荐考几张SAS证，再精通Python
+LinkedIn上的简历就是你的包装和品牌，同时不要忘了上Indeed，Monster，Career Builder，Dice等网站更新你的简历，总有机会在等你
+会SQL是作为数据分析人员的基本素养，一般公司或者第三方软件都会有对应的数据库，当你需要数据的时候，SQL让你能够顺利获取数据。
+BA的学生一般学到having就可以了。可以考虑考几张证书
+MySQL    作为开源数据库的领导者，MySQL在全球范围内也还是有着大量的用户。而且MySQL也同样有认证考试，其中最初级的是MySQL认证专员CMA,需要考一门课程，主要测试DBA对MySQL的基本知识与技能。然后再通过两门考试，就可以获得MySQL 认证DBA的证书，即CMDBA;MySQL开发者一样可以获得MySQL认证开发者证书，即CMDEV.然后再通过一门高级考试，MySQL DBA就可以获得MySQL集群认证证书。
+
+
+https://www.sas.com/en_us/training/offers/free-training.html
+
+https://www.jobscan.co/blog/5-certifications-add-resume-free/
+
+https://drive.google.com/file/d/1wDe4h8NWg-0Jpt6pRmXgVr_3thRlyJZQ/view?usp=sharing
+
+--------
+
+https://www.esri.com/en-us/arcgis/products/tapestry-segmentation/zip-lookup
+www.esri.com learn.arcgis.com
+
+-----------------------------------
+
+# for(i in 1:nrow(music)) {
+#   row <- dataFrame[i,]
+#   row
+# }
+# 
+# for(i in 1:nrow(music)) {
+#   test = as.numeric(music[i,]);
+#   paste(c("The first three notes are: ", test), collapse=" ")
+# }
+# 
+# l <- list();
+# idx <- 1;
+# for(i in 1:nrow(music)) {
+#   test = as.numeric(music[i,]);
+#   cat(test)
+  #if(var(test) == 1){
+    #i
+    #test
+    #l[[idx]] <- i;
+    #idx <- idx + 1;
+    #print()
+  #}
+#}
+#l
+#print(l, row.names = FALSE)
+
+
+
+
+
+
+
+ 
