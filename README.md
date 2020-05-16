@@ -6,7 +6,7 @@ Pick four counties which can be split into two groups;
 Split them based on population characteristics (social economic indexes like consumer price index, unemployee rate and income level, race, ethnicity mix, etc). The four counties are 
 - Los Angeles County(CA) 
 - Maricopa(AZ)
-- New York City(NY)
+- New York County(NY)
 - Burlington County(NJ)
 
 ## 2. Feed the data into model
