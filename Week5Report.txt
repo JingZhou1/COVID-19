@@ -1,0 +1,24 @@
+Hi professor Wang,
+
+I hope you are doing well. I'm writing this email to report my research progress in the past week.
+
+What I have done this week 
+1. I updated COVID-19 data and feed the data to the Gompertz model. Based on your suggestion, I use the inverse of the original function that I used to standardize my data to get non- standardized values. 
+The results indicate that about 11223 people in Maricopa County would be infected by day 226 (09/03/2020) if no action like social distancing is taken and the number would not change much since then. 
+
+2. I run the regression again with more supply chain related data. The results show that population density is significant in impacting the spread of this pandemic. One interesting new finding is that the number of major airports has a significant and positive impact on the spread at a 90% confidence level. If the number of major airports increases by 1, the number of infections is expected to increase by around 3104. 
+
+3. I put together my research findings and interpretations into a Word document. Please find the file attached below.  
+ 
+What I'm going to work on in the coming week
+I'm going to keep learning about repeated measures and see if it works in my research scenario. If the answer is yes, I can try to implement it in python. 
+
+What questions I have encountered
+I'm not familiar with repeated measures so I learn by reading related articles and watching videos. I found one article https://statistics.laerd.com/statistical-guides/repeated-measures-anova-statistical-guide.php which says that 
+"In repeated measures ANOVA, the independent variable has categories called levels or related groups."
+But my independent variables are all continuous. I'm not sure if I'm on the right track. I would like to double-check that if Repeated Measures ANOVA is the repeated test you were referring to in the last email.
+Thank you for taking the time to read my report. Please let me know if you have any questions or suggestions. Thanks. 
+
+
+Best,
+Jing
