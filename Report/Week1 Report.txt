@@ -1,0 +1,23 @@
+Hi professor Wang,
+
+I hope you are doing well. I'm writing this email to report my research progress in the past week. 
+
+What I have done this week 
+I have picked four counties which I'm interested in as my research objects, two in the east part and two in the western part of the US. 
+
+I have made a preliminary plan on how to conduct my research based on professor Wang's suggestions. I have selected R language to implement Gompertz functions after studying a tumor growth example. 
+
+I focused on step 1 which is collecting relevant data at county-level and state level. For the COVID-19, I have collected cumulative time-series data of positive cases. For the four counties, I have collected data from consumer price index, unemployment rate, income level to population density, and median age. For the supply chain factor, I have collected data related to the availability of health care facilities, healthcare workers.
+
+What I'm going to work on in the coming week
+I'm going to fit Gompertz functions to these four counties to identify best predicting parameters (a, b, c) using R language. After this, I would move to step 3. 
+
+What questions I have encountered
+As data validity is critical in research, I spent plenty of time on collecting reliable data. But I found that it is not easy to collect data on lower level. For example, I have found data about healthcare workers' availability in the Metropolitan and Nonmetropolitan Area, but I didn't find the data at the county-level. I started from the government website like https://www.bls.gov/oes/current/oessrcma.htm and then move to some open databases like UCI Machine Learning Database. I would keep exploring any other data resources available.
+
+
+Thanks for your time on reading my report. Please let me know if you have any questions or suggestions. Thank you. 
+
+
+Best,
+Jing
