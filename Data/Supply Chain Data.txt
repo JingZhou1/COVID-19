@@ -1,0 +1,24 @@
+Supply Chain Data
+
+Shipping Hub
+http://www.mhi.org/media/news/10898
+
+
+Health Care Facility
+LA county
+https://healthdata.gov/dataset/licensed-and-certified-healthcare-facility-listing
+
+Queens 
+https://www.health.ny.gov/funding/rfa/inactive/0908201108/queens_county_healthcare_profile.pdf
+
+Lycoming County
+https://www.health.pa.gov/topics/HealthStatistics/HealthFacilities/NursingHomeReports/Pages/nursing-home-reports.aspx
+
+
+Other data to explore
+Transportation Cost 
+Number of healthcare workers 
+Number of hospital Beds
+Medical resource available 
+Inventory 
+Production capacity 

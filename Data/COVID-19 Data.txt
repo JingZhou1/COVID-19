@@ -1,0 +1,7 @@
+1. COVID-19 Data 
+
+Cumulative data of confirmed cases at State-Level in U.S. can be found here
+https://github.com/nychealth/coronavirus-data
+
+Cumulative data of confirmed cases at County-Level in U.S. can be found here
+https://github.com/CSSEGISandData/COVID-19/blob/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_US.csv
